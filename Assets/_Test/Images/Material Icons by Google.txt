@@ -1,0 +1,10 @@
+https://material.io/icons/
+http://google.github.io/material-design-icons/
+https://github.com/google/material-design-icons
+
+･ic_folder_open_white_24dp.png
+･ic_open_in_browser_white.png
+･ic_record_voice_over_white.png
+･ic_save_white_24dp.png
+･ic_send_white_24dp.png
+
